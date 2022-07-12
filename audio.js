@@ -1,29 +1,24 @@
 var data = {
     title: [
-"Elley - MIDDLE OF THE NIGTH",
-"XCHO- YOU AND ME ",
-"JAYMES YOUNG - INFINITY",
-"XCHO - ONLY YOU",
 
-
-
-
-        
+"Elley Duhe - MIDDLE OF THE NIGTH",
+"Infinity - Jaymes Young",
+"Xcho- Only you",
     ],
     song: [
+
 "music/el.mp3",
-"music/xcho 2.mp3",
 "music/inf.mp3",
 "music/xcho.mp3",
-
-
+       
     ],
 
     poster: [
-"https://c.tenor.com/bVk4KX5znbEAAAAC/graphics-equalizer-colors.gif",
-"https://i.pinimg.com/originals/05/4a/a3/054aa3421c22e0c9e04ada3082066a8d.gif",
- "https://i.gifer.com/TjnT.gif",
- "https://c.tenor.com/yO2w1FK1IQIAAAAC/music.gif",
+
+
+"https://i.gifer.com/TjnT.gif",
+"https://media0.giphy.com/media/5ehBR5qtLEXBe/giphy.gif",
+"https://c.tenor.com/yO2w1FK1IQIAAAAC/music.gif",
     ]
 }
 
